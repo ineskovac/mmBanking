@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">mBanking</string>
+    <string name="FirstName">First Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="LoginTitle">Login</string>
+    <string name="Login">Login</string>
+    <string name="ButtonNext">Next</string>
+    <string name="PasswordTitle">Password</string>
+    <string name="NumberPassword">Password</string>
+    <string name="PasswordInfo">Password has to be between 4 and 6 digits</string>
+    <string name="DialogLogin">Login</string>
+    <string name="transactionID">ID:</string>
+    <string name="transactionDate">Date:</string>
+    <string name="transactionDescription">Description:</string>
+    <string name="transactionIDfield" />
+    <string name="transactionAmount">Amount:</string>
+    <string name="transactionType">Type:</string>
+    <string name="IBAN">IBAN:</string>
+    <string name="IBANField">Choose account</string>
+    <string name="Logout">Logout</string>
+    <string name="accountID">ID:</string>
+    <string name="accountIBAN">IBAN:</string>
+
+</resources>
